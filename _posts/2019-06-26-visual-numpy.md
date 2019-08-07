@@ -236,7 +236,10 @@ NumPy can do everything we've mentioned in any number of dimensions. Its central
 
 
 In a lot of ways, dealing with a new dimension is just adding a comma to the parameters of a NumPy function:
-
+<!---Hi Jay. Great article! Thank you for sharing the knowledge in visual way. Was following your post along in the notebook
+and this picture suggests the code as np.ones((4,3,2)), where it needs to be np.ones((2,4,3)) to produce a pictured array.
+Correct me if I'm wrong but I think you you were thinking about the format of picture size you pass to deep learning model
+when you were producing this pic.-->
 <div class="img-div-any-width" markdown="0">
   <image src="/images/numpy/numpy-3d-array-creation.png"/>
   <br />
